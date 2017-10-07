@@ -1,0 +1,15 @@
+{ "activeExperimentId" : 1,
+  "experiments" : [ { "aspectConfigurations" : [  ],
+        "description" : "Sibernetic sample",
+        "id" : 1,
+        "lastModified" : "1436102517799",
+        "name" : "Sibernetic sample",
+        "status" : "DESIGN"
+      } ],
+  "geppettoModel" : { "id" : 9,
+      "type" : "GEPPETTO_PROJECT",
+      "url" : "/Crawling.xmi"
+    },
+  "id" : 9,
+  "name" : "Sibernetic sample"
+}
