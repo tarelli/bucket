@@ -14,7 +14,7 @@
       name="Sibernetic Scene">
     <types xsi:type="gep_1:ImportType"
         id="wormCrawling"
-        url="http://worm_crawl_half_resolution"
+        url="http://worm_crawling"
         modelInterpreterId="siberneticModelInterpreter"/>
   </libraries>
 </gep:GeppettoModel>
