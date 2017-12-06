@@ -1,5 +1,17 @@
 { "activeExperimentId" : 1,
-  "experiments" : [ { "aspectConfigurations" : [  ],
+  "experiments" : [ { 
+    "aspectConfigurations": [
+        {
+          "instance": "worm",
+          "simulatorConfiguration": {
+            "id": 1,
+            "length": 0.3,
+            "simulatorId": "sibernetic",
+            "timestep": 5.0e-05
+          }
+        }
+      ],
+    
         "description" : "Sibernetic sample",
         "id" : 1,
         "lastModified" : "1436102517799",
