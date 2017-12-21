@@ -12,6 +12,9 @@
             "timestep": 0.01
           },
           "watchedVariables": [
+            "worm.midline.x",
+            "worm.midline.y",
+            "worm.midline.z",
             "worm.muscle_activation_0",
             "worm.muscle_activation_1",
             "worm.muscle_activation_2",
